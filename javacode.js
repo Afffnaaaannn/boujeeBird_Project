@@ -96,7 +96,6 @@ const sr=ScrollReveal(
         distance:'60px',
         duration:1000,
         delay:300,
-       //reset:true ,
     })
 
     sr.reveal(`.home__data`)
